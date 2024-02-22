@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/444e9a15-7952-4702-bc6f-ed66488208fc/resourceGroups/museovirtualuceRG/providers/Microsoft.Web/sites/museovirtualuce",
+    "appService.deploySubpath": "."
+}
